@@ -5,7 +5,7 @@ Overview
 
 This project explores the impact of the COVID-19 pandemic on Dallas Airbnb listings, focusing on price trends, booking patterns, and guest sentiments. Using data-driven techniques such as Random Forest, Linear Regression, and sentiment analysis models (RoBERTa, BERT, VADER), we analyzed changes before and after the pandemic to understand market recovery and key influencing factors.
 
-Objectives
+Objectives:
 
 Analyze price trends and booking patterns before and after the COVID-19 pandemic.
 
